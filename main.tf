@@ -26,6 +26,8 @@ resource "aws_instance" "blog" {
   tags = {
     Name = "Learning Terraform"
   }
+
+  
 }
 
 module "blog_sg" {
