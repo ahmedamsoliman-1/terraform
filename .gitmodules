@@ -1,0 +1,7 @@
+[submodule "advance"]
+	path = advanced-terraform-3099246
+	url = https://github.com/LinkedInLearning/advanced-terraform-3099246.git
+
+[submodule "learn"]
+	path = learning-terraform-3087701
+	url = https://github.com/LinkedInLearning/learning-terraform-3087701.git
