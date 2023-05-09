@@ -5,3 +5,7 @@
 [submodule "learn"]
 	path = learning-terraform-3087701
 	url = https://github.com/LinkedInLearning/learning-terraform-3087701.git
+
+[submodule "azure"]
+	path = terraform-azure-2453108
+	url = https://github.com/LinkedInLearning/terraform-azure-2453108.git
