@@ -16,6 +16,6 @@ provider "azurerm" {
 
 #Creates resource group
 resource "azurerm_resource_group" "main" {
-  name     = "learn-tf-rg-eastus"
+  name     = "learn-tf-22-rg-eastus"
   location = "eastus"
 }
